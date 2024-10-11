@@ -46,22 +46,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "김민제 ♥ 박수비의 모바일 청첩장",
+        title: "엄선영 ♥ 차주연의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/x0NBWRG.png",
+        imageUrl: "https://i.imgur.com/UmOKTMW.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo22.luvle.co.kr",
-          webUrl: "https://mo22.luvle.co.kr",
+          mobileWebUrl: "https:/mo31.luvle.co.kr",
+          webUrl: "https://mo31.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo22.luvle.co.kr",
-            webUrl: "https://mo22.luvle.co.kr",
+            mobileWebUrl: "https://mo31.luvle.co.kr",
+            webUrl: "https://mo31.luvle.co.kr",
           },
         },
       ],
